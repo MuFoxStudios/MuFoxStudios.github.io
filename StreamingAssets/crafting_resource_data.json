@@ -1,0 +1,189 @@
+{
+  "NONE": {
+    "name": "none",
+    "sell_price": "0",
+    "crafting_type": "food",
+    "quantity_produced": "0",
+    "crafting_time": "0",
+    "recipie": "",
+    "xp": "0",
+    "level": "0",
+    "description": ""
+  },
+  "BREAD": {
+    "name": "Bread",
+    "sell_price": "25",
+    "crafting_type": "food",
+    "quantity_produced": "1",
+    "crafting_time": ".4",
+    "recipie": "WHEAT!5",
+    "xp": "200",
+    "level": "1",
+    "description": "Plain white bread."
+  },
+  "FRIED_EGG": {
+    "name": "Fried Egg",
+    "sell_price": "8",
+    "crafting_type": "food",
+    "quantity_produced": "1",
+    "crafting_time": ".2",
+    "recipie": "EGG!1=LARD!3",
+    "xp": "200",
+    "level": "1",
+    "description": "A variation of fried chicken."
+  },
+  "SCRAMBLED_EGGS": {
+    "name": "Scrambled Eggs",
+    "sell_price": "10",
+    "crafting_type": "food",
+    "quantity_produced": "1",
+    "crafting_time": ".2",
+    "recipie": "EGG!3=LARD!2=MILK!1",
+    "xp": "200",
+    "level": "1",
+    "description": "Tastes just like chicken."
+  },
+  "HORSE_BURGER": {
+    "name": "Horse Burger",
+    "sell_price": "150",
+    "crafting_type": "food",
+    "quantity_produced": "1",
+    "crafting_time": "1",
+    "recipie": "COOKED_HORSE_MEAT!1=CHEESE!1=BREAD!2=LETTUCE!1=TOMATO!1",
+    "xp": "500",
+    "level": "1",
+    "description": "You won't even be able to taste the difference."
+  },
+  "COOKED_HORSE_MEAT": {
+    "name": "Cooked Horse Meat",
+    "sell_price": "20",
+    "crafting_type": "food",
+    "quantity_produced": "1",
+    "crafting_time": "1.5",
+    "recipie": "HORSE_MEAT!1=LARD!3",
+    "xp": "400",
+    "level": "1",
+    "description": "We've figured out how to obtain six hamburgers from a horse without killing the animal."
+  },
+  "HORSE_SLIDERS": {
+    "name": "Horse Sliders",
+    "sell_price": "80",
+    "crafting_type": "food",
+    "quantity_produced": "6",
+    "crafting_time": "1.2",
+    "recipie": "HORSE_MEAT!3=LARD!4=BREAD!2=CHEESE!3",
+    "xp": "700",
+    "level": "1",
+    "description": "Sears said no."
+  },
+  "CHEESE_PIZZA": {
+    "name": "Cheese Pizza",
+    "sell_price": "100",
+    "crafting_type": "food",
+    "quantity_produced": "1",
+    "crafting_time": "2",
+    "recipie": "BREAD!3=CHEESE!3=TOMATO!2",
+    "xp": "1000",
+    "level": "1",
+    "description": "I named my dog after cheese pizza."
+  },
+  "PEPPERONI_PIZZA": {
+    "name": "Pepperoni Pizza",
+    "sell_price": "500",
+    "crafting_type": "food",
+    "quantity_produced": "1",
+    "crafting_time": "4",
+    "recipie": "BREAD!3=CHEESE!3=TOMATO!2=COOKED_HORSE_MEAT!2",
+    "xp": "2500",
+    "level": "1",
+    "description": "PSA: Does not contain peppers."
+  },
+  "DELUXE_PIZZA": {
+    "name": "Deluxe Pizza",
+    "sell_price": "1000",
+    "crafting_type": "food",
+    "quantity_produced": "1",
+    "crafting_time": "5",
+    "recipie": "BREAD!3=CHEESE!3=TOMATO!2=COOKED_HORSE_MEAT!1=BELL_PEPPER!1=PORTOBELLO_MUSHROOM!1",
+    "xp": "200",
+    "level": "1",
+    "description": "Contains everything but pineapple, thankfully."
+  },
+  "MAYONNAISE": {
+    "name": "MAYONNAISE",
+    "sell_price": "20",
+    "crafting_type": "food",
+    "quantity_produced": "1",
+    "crafting_time": "1.5",
+    "recipie": "EGG!1=LARD!1",
+    "xp": "200",
+    "level": "1",
+    "description": "No, this is not an instrument."
+  },
+  "CHEESE": {
+    "name": "Cheese",
+    "sell_price": "20",
+    "crafting_type": "food",
+    "quantity_produced": "1",
+    "crafting_time": "1.5",
+    "recipie": "MILK!2",
+    "xp": "200",
+    "level": "1",
+    "description": "Practically old milk."
+  },
+  "BUTTER": {
+    "name": "Butter",
+    "sell_price": "20",
+    "crafting_type": "food",
+    "quantity_produced": "1",
+    "crafting_time": "1.5",
+    "recipie": "MILK!1=LARD!1",
+    "xp": "200",
+    "level": "1",
+    "description": "Get to churning!"
+  },
+  "POPCORN": {
+    "name": "Popcorn",
+    "sell_price": "20",
+    "crafting_type": "food",
+    "quantity_produced": "1",
+    "crafting_time": "1.5",
+    "recipie": "CORN!1=BUTTER!2",
+    "xp": "200",
+    "level": "1",
+    "description": "It has almost no calories."
+  },
+  "POTATO_VODKA": {
+    "name": "Potato Vodka",
+    "sell_price": "2000",
+    "crafting_type": "alcohol",
+    "quantity_produced": "2",
+    "crafting_time": "50",
+    "recipie": "POTATO!5=WHEAT!10",
+    "xp": "5000",
+    "level": "1",
+    "description": "When life gives you potatoes, make vodka"
+  },
+  "TENNESSEE_WHISKEY": {
+    "name": "Tennesse Whiskey",
+    "sell_price": "2200",
+    "crafting_type": "alcohol",
+    "quantity_produced": "2",
+    "crafting_time": "50",
+    "recipie": "CORN!5=WHEAT!10",
+    "xp": "6000",
+    "level": "1",
+    "description": "My friend Jack's special recipie."
+  },
+  "COOKIES": {
+    "name": "Cookies",
+    "sell_price": "50",
+    "crafting_type": "food",
+    "quantity_produced": "5",
+    "crafting_time": "2",
+    "recipie": "MILK!2=EGG!2=BUTTER!1=WHEAT!5=LOVE!2",
+    "xp": "500",
+    "level": "1",
+    "description": "Made with a pinch of love."
+  }
+}

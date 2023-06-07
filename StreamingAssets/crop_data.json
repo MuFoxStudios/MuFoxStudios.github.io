@@ -1,0 +1,112 @@
+{
+  "NONE": {
+    "key": "NONE",
+    "name": "none",
+    "cost": "0",
+    "growth_time": "0",
+    "harvest_quantity": "0",
+    "resource": "NONE",
+    "xp": "0",
+    "level": "0",
+    "description": ""
+  },
+  "WHEAT": {
+    "key": "WHEAT",
+    "name": "Wheat",
+    "cost": "5",
+    "growth_time": ".5",
+    "harvest_quantity": "5",
+    "resource": "WHEAT",
+    "xp": "5",
+    "level": "0",
+    "description": "A basic, versatile, crop."
+  },
+  "ONION": {
+    "key": "ONION",
+    "name": "Onion",
+    "cost": "10",
+    "growth_time": "1",
+    "harvest_quantity": "5",
+    "resource": "ONION",
+    "xp": "10",
+    "level": "10",
+    "description": "Please don't cry."
+  },
+  "CARROT": {
+    "key": "CARROT",
+    "name": "CARROT",
+    "cost": "20",
+    "growth_time": "2",
+    "harvest_quantity": "5",
+    "resource": "CARROT",
+    "xp": "20",
+    "level": "20",
+    "description": "You'll go blind. Wait...."
+  },
+  "POTATO": {
+    "key": "POTATO",
+    "name": "Potato",
+    "cost": "40",
+    "growth_time": "5",
+    "harvest_quantity": "10",
+    "resource": "POTATO",
+    "xp": "50",
+    "level": "30",
+    "description": "Simply the best vegetable there is."
+  },
+  "TOMATO": {
+    "key": "TOMATO",
+    "name": "Tomato",
+    "cost": "40",
+    "growth_time": "7",
+    "harvest_quantity": "5",
+    "resource": "TOMATO",
+    "xp": "100",
+    "level": "40",
+    "description": "Fruit or vegetable?"
+  },
+  "CORN": {
+    "key": "CORN",
+    "name": "Corn",
+    "cost": "100",
+    "growth_time": "10",
+    "harvest_quantity": "10",
+    "resource": "CORN",
+    "xp": "200",
+    "level": "50",
+    "description": "Awww shucks."
+  },
+  "BELL_PEPPER": {
+    "key": "BELL_PEPPER",
+    "name": "Bell Pepper",
+    "cost": "150",
+    "growth_time": "15",
+    "harvest_quantity": "15",
+    "resource": "BELL_PEPPER",
+    "xp": "250",
+    "level": "50",
+    "description": "A zero on the Scoville scale."
+  },
+  "PORTOBELLO_MUSHROOM": {
+    "key": "PORTOBELLO_MUSHROOM",
+    "name": "Portobello Mushroom",
+    "cost": "400",
+    "growth_time": "48",
+    "harvest_quantity": "5",
+    "resource": "PORTOBELLO_MUSHROOM",
+    "xp": "2000",
+    "level": "50",
+    "description": "Must be a fun guy."
+  },
+  "LETTUCE": {
+    "key": "LETTUCE",
+    "name": "Lettuce",
+    "cost": "200",
+    "growth_time": "12",
+    "harvest_quantity": "4",
+    "resource": "LETTUCE",
+    "xp": "400",
+    "level": "50",
+    "description": "That's a big head."
+  }
+}

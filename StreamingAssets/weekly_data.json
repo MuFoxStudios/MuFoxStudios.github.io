@@ -1,0 +1,66 @@
+{
+  "NONE": {
+    "name": "none",
+    "base_quantity": "0",
+    "base_xp": "0",
+    "base_coins": "0",
+    "level": "0"
+  },
+  "WHEAT": {
+    "name": "Wheat",
+    "base_quantity": "10",
+    "base_xp": "20",
+    "base_coins": "20",
+    "level": "0"
+  },
+  "MILK": {
+    "name": "Milk",
+    "base_quantity": "20",
+    "base_xp": "200",
+    "base_coins": "100",
+    "level": "0"
+  },
+  "ONION": {
+    "name": "Onion",
+    "base_quantity": "10",
+    "base_xp": "40",
+    "base_coins": "40",
+    "level": "0"
+  },
+  "CARROT": {
+    "name": "Carrot",
+    "base_quantity": "10",
+    "base_xp": "20",
+    "base_coins": "20",
+    "level": "20"
+  },
+  "POTATO": {
+    "name": "Potato",
+    "base_quantity": "20",
+    "base_xp": "200",
+    "base_coins": "200",
+    "level": "30"
+  },
+  "TOMATO": {
+    "name": "Tomato",
+    "base_quantity": "10",
+    "base_xp": "400",
+    "base_coins": "200",
+    "level": "40"
+  },
+  "CORN": {
+    "name": "Corn",
+    "base_quantity": "20",
+    "base_xp": "800",
+    "base_coins": "400",
+    "level": "50"
+  },
+  "BREAD": {
+    "name": "Bread",
+    "base_quantity": "5",
+    "base_xp": "100",
+    "base_coins": "100",
+    "level": "0"
+  }
+  
+}

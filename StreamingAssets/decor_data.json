@@ -1,0 +1,93 @@
+{
+  "NONE": {
+    "name": "none",
+    "cost": "0",
+    "size_x": "0",
+    "size_y": "0",
+    "description": ""
+  },
+  "HAYBALE": {
+    "name": "Haybale",
+    "cost": "10",
+    "size_x": "1",
+    "size_y": "1",
+    "description": "A plain haybale."
+  },
+  "HAYBALE_BLACK": {
+    "name": "Haybale (Black)",
+    "cost": "10",
+    "size_x": "1",
+    "size_y": "1",
+    "description": "A black haybale."
+  },
+  "HAYBALE_BLUE": {
+    "name": "Haybale (Blue)",
+    "cost": "10",
+    "size_x": "1",
+    "size_y": "1",
+    "description": "A blue haybale."
+  },
+  "HAYBALE_BROWN": {
+    "name": "Haybale (Brown)",
+    "cost": "10",
+    "size_x": "1",
+    "size_y": "1",
+    "description": "A brown haybale."
+  },
+  "HAYBALE_GREEN": {
+    "name": "Haybale (Green)",
+    "cost": "10",
+    "size_x": "1",
+    "size_y": "1",
+    "description": "A green haybale."
+  },
+  "HAYBALE_ORANGE": {
+    "name": "Haybale (Orange)",
+    "cost": "10",
+    "size_x": "1",
+    "size_y": "1",
+    "description": "A orange haybale."
+  },
+  "HAYBALE_PINK": {
+    "name": "Haybale (Pink)",
+    "cost": "10",
+    "size_x": "1",
+    "size_y": "1",
+    "description": "A pink haybale."
+  },
+  "HAYBALE_PURPLE": {
+    "name": "Haybale (Purple)",
+    "cost": "10",
+    "size_x": "1",
+    "size_y": "1",
+    "description": "A purple haybale."
+  },
+  "HAYBALE_RED": {
+    "name": "Haybale (Red)",
+    "cost": "10",
+    "size_x": "1",
+    "size_y": "1",
+    "description": "A red haybale."
+  },
+  "HAYBALE_WHITE": {
+    "name": "Haybale (White)",
+    "cost": "10",
+    "size_x": "1",
+    "size_y": "1",
+    "description": "A white haybale."
+  },
+  "HAYBALE_YELLOW": {
+    "name": "Haybale (Yellow)",
+    "cost": "10",
+    "size_x": "1",
+    "size_y": "1",
+    "description": "A yellow haybale."
+  },
+  "HAYBALE_CYAN": {
+    "name": "Haybale (CYAN)",
+    "cost": "10",
+    "size_x": "1",
+    "size_y": "1",
+    "description": "A cyan haybale."
+  }
+}

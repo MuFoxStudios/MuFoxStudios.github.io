@@ -1,0 +1,79 @@
+{
+  "ONION": {
+    "point_cost": "1",
+    "type": "produce",
+    "rank": "0"
+  },
+  "CARROT": {
+    "point_cost": "1",
+    "type": "produce",
+    "rank": "1"
+  },
+  "POTATO": {
+    "point_cost": "1",
+    "type": "produce",
+    "rank": "2"
+  },
+  "TOMATO": {
+    "point_cost": "2",
+    "type": "produce",
+    "rank": "3"
+  },
+  "LETTUCE": {
+    "point_cost": "2",
+    "type": "produce",
+    "rank": "4"
+  },
+  "CORN": {
+    "point_cost": "4",
+    "type": "produce",
+    "rank": "5"
+  },
+  "BELL_PEPPER": {
+    "point_cost": "4",
+    "type": "produce",
+    "rank": "6"
+  },
+  "PORTOBELLO_MUSHROOM": {
+    "point_cost": "0",
+    "type": "produce",
+    "rank": "7"
+  },  
+  "CHICK": {
+    "point_cost": "2",
+    "type": "animal",
+    "rank": "0"
+  },
+  "LAMB": {
+    "point_cost": "2",
+    "type": "animal",
+    "rank": "1"
+  },
+  "PIGGLET": {
+    "point_cost": "4",
+    "type": "animal",
+    "rank": "2"
+  },
+  "FOAL": {
+    "point_cost": "5",
+    "type": "animal",
+    "rank": "3"
+  },
+  "PENGUIN_CHICK": {
+    "point_cost": "0",
+    "type": "animal",
+    "rank": "4"
+  },
+  "CROP_PRODUCTION": {
+    "data": "1:1,2:1,3:2,4:2,5:4,6:5,7:5,8:6:,9:7,10:10"
+  },
+  "CROP_ANIMAL_SPEED": {
+    "data": ".01:1,.02:1,.05:4,.10:7,.15:10,.20:15"
+  },
+  "CRAFT_SPEED": {
+    "data": ".01:1,.02:1,.05:4,.10:7,.15:10,.20:15"
+  },
+  "CRAFT_SELL": {
+    "data": ".01:1,.02:1,.05:4,.10:7,.15:10,.20:15"
+  }
+}

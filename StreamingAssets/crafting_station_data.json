@@ -1,0 +1,51 @@
+{
+  "NONE": {
+    "name": "None",
+    "cost": "0",
+    "crafting_type": "food",
+    "speed_multiplier": "1",
+    "description": ""
+  },
+  "BASIC_OVEN": {
+    "name": "Basic Oven",
+    "cost": "1000",
+    "crafting_type": "food",
+    "speed_multiplier": "1",
+    "description": "A basic oven to cook and bake things."
+  },
+  "UPGRADED_OVEN": {
+    "name": "Upgraded Oven",
+    "cost": "10000",
+    "crafting_type": "food",
+    "speed_multiplier": "1.2",
+    "description": "An upgraded oven to cook and bake things."
+  },
+  "BASIC_STILL": {
+    "name": "Basic Still",
+    "cost": "10000",
+    "crafting_type": "alcohol",
+    "speed_multiplier": "1",
+    "description": "A basic still to brew alcohol"
+  },
+  "UPGRADED_STILL": {
+    "name": "Upgraded Still",
+    "cost": "25000",
+    "crafting_type": "alcohol",
+    "speed_multiplier": "1.2",
+    "description": "An upgraded still to brew alcohol"
+  },
+  "CRUDE_CRAFTING_TABLE": {
+    "name": "Crude Crafting Table",
+    "cost": "1000",
+    "crafting_type": "craft_goods",
+    "speed_multiplier": "1",
+    "description": "A crude wooden crafting table to make craft goods."
+  },
+  "CRAFTING_TABLE": {
+    "name": "Crafting Table",
+    "cost": "15000",
+    "crafting_type": "craft_goods",
+    "speed_multiplier": "1.2",
+    "description": "A standard crafting table to make craft goods."
+  }
+}

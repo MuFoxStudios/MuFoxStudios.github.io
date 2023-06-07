@@ -1,0 +1,139 @@
+{
+  "NONE": {
+    "name": "none",
+    "sell_price": "0",
+    "buy_price": "0",
+    "type": "resource",
+    "source": "",
+    "description": ""
+  },
+  "WHEAT": {
+    "name": "Wheat",
+    "buy_price": "0",
+    "sell_price": "2",
+    "type": "produce",
+    "source": "",
+    "description": "A basic, versatile, crop."
+  },
+  "MILK": {
+    "name": "Milk",
+    "buy_price": "0",
+    "sell_price": "7",
+    "type": "animal_product",
+    "source": "",
+    "description": "I wonder about the first guy that saw a calf nursing and said 'I'd like some of that'"
+  },
+  "ONION": {
+    "name": "Onion",
+    "buy_price": "0",
+    "sell_price": "8",
+    "type": "produce",
+    "source": "",
+    "description": "Please don't cry."
+  },
+  "CARROT": {
+    "name": "Carrot",
+    "buy_price": "0",
+    "sell_price": "10",
+    "type": "produce",
+    "source": "",
+    "description": "You'll go blind. Wait...."
+  },
+  "POTATO": {
+    "name": "Potato",
+    "buy_price": "0",
+    "sell_price": "7",
+    "type": "produce",
+    "source": "",
+    "description": "Simply the best vegetable there is."
+  },
+  "TOMATO": {
+    "name": "Tomato",
+    "buy_price": "0",
+    "sell_price": "15",
+    "type": "produce",
+    "source": "",
+    "description": "Fruit or vegetable?"
+  },
+  "CORN": {
+    "name": "Corn",
+    "buy_price": "0",
+    "sell_price": "10",
+    "type": "produce",
+    "source": "",
+    "description": "Awww shucks."
+  },
+  "WOOL": {
+    "name": "Wool",
+    "buy_price": "0",
+    "sell_price": "5",
+    "type": "animal_product",
+    "source": "",
+    "description": "Soft yet hardy."
+  },
+  "LARD": {
+    "name": "Lard",
+    "buy_price": "0",
+    "sell_price": "2",
+    "type": "animal_product",
+    "source": "",
+    "description": "Pure pig fat, yummy!"
+  },
+  "ICE_CUBE": {
+    "name": "Ice Cube",
+    "buy_price": "0",
+    "sell_price": "10",
+    "type": "animal_product",
+    "source": "",
+    "description": "Don't ask where these come from...."
+  },
+  "BELL_PEPPER": {
+    "name": "Bell Pepper",
+    "buy_price": "0",
+    "sell_price": "20",
+    "type": "produce",
+    "source": "",
+    "description": "A zero on the Scoville scale."
+  },
+  "PORTOBELLO_MUSHROOM": {
+    "name": "Portobello Mushroom",
+    "buy_price": "0",
+    "sell_price": "100",
+    "type": "produce",
+    "source": "",
+    "description": "Must be a fun guy."
+  },
+  "LETTUCE": {
+    "name": "Lettuce",
+    "buy_price": "0",
+    "sell_price": "10",
+    "type": "produce",
+    "source": "",
+    "description": "That's a big head."
+  },
+  "EGG": {
+    "name": "Egg",
+    "buy_price": "0",
+    "sell_price": "2",
+    "type": "animal_product",
+    "source": "",
+    "description": "Actually, the egg came first since the ancestor bird laid the mutated egg that was the first chicken."
+  },
+  "HORSE_MEAT": {
+    "name": "Horse Meat",
+    "buy_price": "0",
+    "sell_price": "15",
+    "type": "animal_product",
+    "source": "",
+    "description": "We've figured out how to obtain six hamburgers from a horse without killing the animal."
+  },
+  "LOVE": {
+    "name": "Love",
+    "buy_price": "0",
+    "sell_price": "20",
+    "type": "animal_product",
+    "source": "",
+    "description": "Putting a little love into your cooking makes it taste x10 better!"
+  }
+  
+}

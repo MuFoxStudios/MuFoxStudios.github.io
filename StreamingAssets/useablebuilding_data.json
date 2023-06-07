@@ -1,0 +1,46 @@
+{
+  "NONE": {
+    "name": "none",
+    "cost": "0",
+    "type": "crafting",
+    "slots": "0",
+    "size_x": "0",
+    "size_y": "0",
+    "crafting_types": "food?alcohol",
+    "animal_types": "",
+    "description": ""
+  },
+  "BASIC_HOUSE": {
+    "name": "Basic House",
+    "cost": "1000",
+    "type": "crafting",
+    "slots": "4",
+    "size_x": "6",
+    "size_y": "4",
+    "crafting_types": "food",
+    "animal_types": "",
+    "description": "A basic house for sleeping and other activities."
+  },
+  "ANIMAL_SHELTER": {
+    "name": "Animal Shelter",
+    "cost": "10000",
+    "type": "storage",
+    "slots": "3",
+    "size_x": "2",
+    "size_y": "2",
+    "crafting_types": "",
+    "animal_types": "COW?CALF",
+    "description": "A crude lean-to for animals."
+  },
+  "CHICKEN_COOP": {
+    "name": "Chicken Coop",
+    "cost": "20000",
+    "type": "storage",
+    "slots": "10",
+    "size_x": "2",
+    "size_y": "4",
+    "crafting_types": "",
+    "animal_types": "CHICKEN?CHICK",
+    "description": "Look at all these chickens."
+  }
+}

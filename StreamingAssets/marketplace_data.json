@@ -1,0 +1,42 @@
+{
+  "NONE": {
+    "name": "none",
+    "cost": "0",
+    "produce": "0",
+    "animal": "0",
+    "food": "0",
+    "alcohol": "0",
+    "craft": "0",
+    "description": ""
+  },
+    "ROADSIDE_STAND": {
+    "name": "Roadside Stand",
+    "cost": "0",
+    "produce": ".1",
+    "animal": "0",
+    "food": "0",
+    "alcohol": "-.4",
+    "craft": "0",
+    "description": "A simple roadsire stand near the farm."
+  },
+    "FARMERS_MARKET": {
+    "name": "Farmers Market",
+    "cost": "10000",
+    "produce": ".15",
+    "animal": ".1",
+    "food": "0",
+    "alcohol": "-.5",
+    "craft": ".05",
+    "description": "Your very own booth at the farmers market."
+  },
+    "BAKE_SALE": {
+    "name": "Bake Sale",
+    "cost": "15000",
+    "produce": "-1",
+    "animal": "-1",
+    "food": ".25",
+    "alcohol": "-1",
+    "craft": "-1",
+    "description": "Providing food for the local school bake sale."
+  }
+}
