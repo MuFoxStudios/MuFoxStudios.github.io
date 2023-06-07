@@ -58,9 +58,9 @@
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/Farmburgh.loader.js";
       var config = {
-        dataUrl: buildUrl + "/Farmburgh.data.gz",
-        frameworkUrl: buildUrl + "/Farmburgh.framework.js.gz",
-        codeUrl: buildUrl + "/Farmburgh.wasm.gz",
+        dataUrl: buildUrl + "/Farmburgh.data",
+        frameworkUrl: buildUrl + "/Farmburgh.framework.js",
+        codeUrl: buildUrl + "/Farmburgh.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "MuFox Studios",
         productName: "Farmburgh",
@@ -97,7 +97,7 @@
         canvas.style.height = "720px";
       }
 
-      canvas.style.background = "url('" + buildUrl + "/Farmburgh.jpg.gz') center / cover";
+      canvas.style.background = "url('" + buildUrl + "/Farmburgh.jpg') center / cover";
       loadingBar.style.display = "block";
 
       var script = document.createElement("script");
